@@ -1,4 +1,4 @@
-# Hi, I'm Basar Özcan 👋
+# Hi, I'm Bașar Özcan 👋
 
 **Senior Frontend Developer @ Virail GmbH**  
 Building modern, performant, and pixel-perfect web experiences.
