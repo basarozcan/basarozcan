@@ -27,6 +27,12 @@ Outside of coding, you’ll find me building with LEGO bricks—because creativi
 
 ---
 
+### Active Projects
+
+🚥 [Gitlab-In-Menubar](https://github.com/basarozcan/gitlab-in-menubar)
+
+---
+
 ### 📫 Connect with Me
 
 - [basarozcan.com](https://basarozcan.com)
