@@ -1,6 +1,6 @@
 # Hi, I'm Bașar Özcan 👋
 
-**Senior Frontend Developer @ Virail GmbH**  
+**Senior Frontend Developer @ JUMiNGO GmbH**  
 Building modern, performant, and pixel-perfect web experiences.
 
 ---
