@@ -1,6 +1,6 @@
 # Hi, I'm Bașar Özcan 👋
 
-**Senior Frontend Developer @ JUMiNGO GmbH**  
+**Senior Frontend Developer**
 Building modern, performant, and pixel-perfect web experiences.
 
 ---
@@ -13,7 +13,7 @@ Building modern, performant, and pixel-perfect web experiences.
 - JavaScript / TypeScript
 - Tailwind CSS
 - Storybook
-- PHP / Laravel
+- PHP / Laravel / Symfony
 
 ---
 
@@ -29,6 +29,9 @@ Outside of coding, you’ll find me building with LEGO bricks—because creativi
 
 ### Active Projects
 
+- 💻 [Secret Remote](https://secretremote.com)
+- 🔎 [Job Board Scan](https://jobboardscan.com)
+- 🏠 [Cheaphouz](https://cheaphouz.com)
 - 🚥 [Gitlab-In-Menubar](https://github.com/basarozcan/gitlab-in-menubar)
 - 📬 Gmail In Menubar - coming soon
 
