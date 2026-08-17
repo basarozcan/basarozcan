@@ -19,7 +19,7 @@ Building modern, performant, and pixel-perfect web experiences.
 
 ### 🌱 About Me
 
-I'm a passionate frontend developer dedicated to crafting clean, maintainable, and pixel-perfect user interfaces. With several years of experience in building products at scale, I love transforming ideas into beautiful and performant digital solutions. My focus is on delivering seamless user experiences, balancing aesthetics with functionality, and always pushing for best practices in modern web development.
+I'm a passionate fullstack developer with mostly front-end focus; dedicated to crafting clean, maintainable, and pixel-perfect user interfaces. With several years of experience in building products at scale, I love transforming ideas into beautiful and performant digital solutions. My focus is on delivering seamless user experiences, balancing aesthetics with functionality, and always pushing for best practices in modern web development.
 
 Currently living in **Berlin & İzmir/Çeşme**.
 
