@@ -30,6 +30,7 @@ Outside of coding, you’ll find me building with LEGO bricks—because creativi
 ### Active Projects
 
 - 💻 [Secret Remote](https://secretremote.com)
+- 🤖 [JoboCop Chrome Extension](https://jobocop.app)
 - 🔎 [Job Board Scan](https://jobboardscan.com)
 - 🏠 [Cheaphouz](https://cheaphouz.com)
 - 🚥 [Gitlab-In-Menubar](https://github.com/basarozcan/gitlab-in-menubar)
